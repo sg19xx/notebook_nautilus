@@ -1,2 +1,2 @@
-# notebook_nautilus
-Небольшой блокнот написаный на JavaScript.
+# Notebook_Nautilus
+A small notebook written in JavaScript.
